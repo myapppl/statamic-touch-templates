@@ -1,0 +1,6 @@
+name: TouchTemplates
+version: 1.0
+description: Touch template files to update modification timestamp
+developer: MYAPP Piotr Kuszyk
+developer_url: https://github.com/myapppl
+url: https://github.com/myapppl/statamic-touch-templates

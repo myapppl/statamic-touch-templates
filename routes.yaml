@@ -1,0 +1,5 @@
+routes:
+
+  /touch-files:
+    uses: getTouchFiles
+    as: touch-templates.touch-files
